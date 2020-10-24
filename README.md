@@ -12,7 +12,7 @@
 
 - [My Blog: `The Pure Function Pipeline Data Flow ---- the Grand Unified Programming Theory`](https://github.com/linpengcheng/PurefunctionPipelineDataflow)
 - [My personal amateur project: `Lin Pengcheng Financial Analyser`](https://github.com/linpengcheng/fa)
-- [Innovative modern scientific `International Classification of Diseases (ICD)` coding based on mathematics (Chinese)](https://github.com/linpengcheng/icd10faq)
+- [(Chinese) Innovative modern scientific `International Classification of Diseases (ICD)` coding based on mathematics](https://github.com/linpengcheng/icd10faq)
 
 ## Qualifications
 
