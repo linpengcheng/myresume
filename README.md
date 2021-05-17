@@ -10,7 +10,7 @@
 
 ## Achievement
 
-- [My Blog: `The Pure Function Pipeline Data Flow ---- the Grand Unified Programming Theory`](https://github.com/linpengcheng/PurefunctionPipelineDataflow)
+- [My Blog: `The Grand Unified Programming Theory: The Pure Function Pipeline Data Flow with Principle-based Warehouse/Workshop Model`](https://github.com/linpengcheng/PurefunctionPipelineDataflow)
 - [My personal amateur project: `Lin Pengcheng Financial Analyser`](https://github.com/linpengcheng/fa)
 - [(Chinese) Innovative modern scientific `International Classification of Diseases (ICD)` coding based on mathematics](https://github.com/linpengcheng/icd10faq)
 
